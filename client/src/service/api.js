@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const url = "https://flipkart-clone-six-pi.vercel.app";
+const url = "https://flipkart-clone-backend-mu.vercel.app";
 
 export const authenticateLogin = async (user) => {
     try {
